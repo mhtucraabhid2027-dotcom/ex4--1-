@@ -26,6 +26,7 @@ $(document).ready(function(){
 		
 	});
 
+
 //swiper
 var swiper = new Swiper('.mySwiper', {
 		speed:3000, //切換
